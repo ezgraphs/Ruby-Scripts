@@ -1,0 +1,14 @@
+Location;Date;Price;Length;lat;lng
+Natal, Brazil;August 6-7, 2010;No info yet;2 days;-5.7944785;-35.2109531
+Porto Alegre, Brazil;August 21, 2010;32$ for early bird till August 1, 48$ after August 1;1 day;-30.0277041;-51.2287346
+Austin, Texas, US;August 26-28, 2010;Different packages from $250 to $650;3 days;30.2671530;-97.7430608
+Tsukuba, Ibaraki, Japan;August 27-29, 2010;6000 JPY (~ $70);3 days;36.0355747;140.0738660
+The Hilton Downtown – Nashville, Tennessee, US;September 3-4, 2010;FREE;2 days;36.1658899;-86.7844432
+Matsue City, Japan;September 6-7, 2010;FREE;2 days;35.4680595;133.0483750
+Chicago, Illinois, US;September 11, 2010;From $199 to $479;1 day;41.8500330;-87.6500523
+Columbus, Ohio, US;October 1-3, 2010;No info yet;;39.9611755;-82.9987942
+Boulder, Colorado, US;October 6-9, 2010;No info yet;3 days;40.0149856;-105.2705456
+Kyiv, Ukraine;October 16-17, 2010;$26 for early birds till September 1, $52 after September 1;2 days;50.4500000;30.5233333
+Orlando, Florida, US;October 28-30, 2010;$395 for early birds till August 1, $525 after August 1;3 days;28.5383355;-81.3792365
+Ghent, Belgium;October 29, 2010;€55 (~ $72);1 day;51.0535622;3.7208670
+Amsterdam, The Netherlands;October 29-30, 2010;€149;2 days;52.3738007;4.8909347
